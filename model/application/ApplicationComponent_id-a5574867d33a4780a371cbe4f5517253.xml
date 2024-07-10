@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ИР БВР ОГР НГОК"
+    id="id-a5574867d33a4780a371cbe4f5517253">
+  <properties
+      key="СП/ДЗО эксплуатант"
+      value="НГОК"/>
+</archimate:ApplicationComponent>

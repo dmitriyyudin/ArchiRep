@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ИР АИСУПП (MES) УГОК"
+    id="id-f96627d5e1564af49ba1b3528a4e5ea9">
+  <properties
+      key="СП/ДЗО эксплуатант"
+      value="УГОК"/>
+</archimate:ApplicationComponent>
