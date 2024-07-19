@@ -54,8 +54,8 @@
         width="133"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-753b4990b63744f5b7581af7a9750b94.xml#id-753b4990b63744f5b7581af7a9750b94"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-1e042e9f92bf42638878d1e6e6429ce2.xml#id-1e042e9f92bf42638878d1e6e6429ce2"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -137,8 +137,8 @@
         width="132"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-2a408d0721f14701b01fc2803e7680fa.xml#id-2a408d0721f14701b01fc2803e7680fa"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-20da56fda9f74ef2aee2f1b988fea93e.xml#id-20da56fda9f74ef2aee2f1b988fea93e"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -220,8 +220,8 @@
         width="132"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-b78a8cd4fbea4911bbb1b5c6f0aeb6e7.xml#id-b78a8cd4fbea4911bbb1b5c6f0aeb6e7"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-6ce536ee465848e1b70907dbf044e638.xml#id-6ce536ee465848e1b70907dbf044e638"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -289,8 +289,8 @@
         width="133"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-0d5001c7d35042908af9c68cceb9f2d5.xml#id-0d5001c7d35042908af9c68cceb9f2d5"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-f3060b7533634a129c2d2b00ff2abf8c.xml#id-f3060b7533634a129c2d2b00ff2abf8c"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -302,8 +302,8 @@
         width="132"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-909183adf91c4c19b87a1e775f02c416.xml#id-909183adf91c4c19b87a1e775f02c416"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-8f898248d5004da8b4b2cc82fc6d894d.xml#id-8f898248d5004da8b4b2cc82fc6d894d"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -315,8 +315,8 @@
         width="132"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-bcaa5c55b6f3439ab6f93622779a586c.xml#id-bcaa5c55b6f3439ab6f93622779a586c"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-e93ebe80dab6476a8df62d7654a0cd09.xml#id-e93ebe80dab6476a8df62d7654a0cd09"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -328,8 +328,8 @@
         width="132"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-ee6258e046a84facab024148cd5a961a.xml#id-ee6258e046a84facab024148cd5a961a"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-f5eab31d6a404df9b98b84302b632f7a.xml#id-f5eab31d6a404df9b98b84302b632f7a"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -341,8 +341,8 @@
         width="132"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-315df46a04f046fb9c0a4df4c21433be.xml#id-315df46a04f046fb9c0a4df4c21433be"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-2677f9f20cdb4692892024ff3df8e0e6.xml#id-2677f9f20cdb4692892024ff3df8e0e6"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -354,8 +354,8 @@
         width="132"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-3308b7fb45c64af6baedd42ab7580373.xml#id-3308b7fb45c64af6baedd42ab7580373"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-d04716b26d2349e7a0e252c0880fe0f7.xml#id-d04716b26d2349e7a0e252c0880fe0f7"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -367,8 +367,8 @@
         width="132"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-f7e8a9c71cad4ab78b7918993d8c5ca5.xml#id-f7e8a9c71cad4ab78b7918993d8c5ca5"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-eddbe266e31441d090603c71c64ac85a.xml#id-eddbe266e31441d090603c71c64ac85a"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -380,8 +380,8 @@
         width="132"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-5297f27754254362999c506350b45d05.xml#id-5297f27754254362999c506350b45d05"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-0207664fa7284246ab8d870241d80995.xml#id-0207664fa7284246ab8d870241d80995"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -393,8 +393,8 @@
         width="132"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-b3fa16f1a206474b991dcf387798a398.xml#id-b3fa16f1a206474b991dcf387798a398"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-dab671c9819349ebb9282c8d897a033a.xml#id-dab671c9819349ebb9282c8d897a033a"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -406,8 +406,8 @@
         width="132"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-c1d042c7029d433fb776ae9841ec4e13.xml#id-c1d042c7029d433fb776ae9841ec4e13"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-ae46b4515b8143d198374c555eb53d08.xml#id-ae46b4515b8143d198374c555eb53d08"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -419,8 +419,8 @@
         width="132"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-47eedea614074987ae4d59fb6a7d0df9.xml#id-47eedea614074987ae4d59fb6a7d0df9"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-a2c3c5fa86fd4ed78b5a7db43f356f87.xml#id-a2c3c5fa86fd4ed78b5a7db43f356f87"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -432,8 +432,8 @@
         width="133"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-8eb92a98248b4154985a52a69e265094.xml#id-8eb92a98248b4154985a52a69e265094"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-da6fcfbb28f44b0596db8fabdfb131a7.xml#id-da6fcfbb28f44b0596db8fabdfb131a7"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -445,8 +445,8 @@
         width="133"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-824518e5173548669a9268f7b59ccf71.xml#id-824518e5173548669a9268f7b59ccf71"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-51d1c184842248b0ba0bde59e5a6c69d.xml#id-51d1c184842248b0ba0bde59e5a6c69d"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -458,8 +458,8 @@
         width="133"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-700119e69d3f43acad7ceb0408ad77dc.xml#id-700119e69d3f43acad7ceb0408ad77dc"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-1ed9493afab64db2ad6485dcf9ef64ee.xml#id-1ed9493afab64db2ad6485dcf9ef64ee"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -471,8 +471,8 @@
         width="133"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-cbbbf06c830640b291d466d74880b1d9.xml#id-cbbbf06c830640b291d466d74880b1d9"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-b35a85925e28464fb86718108c1be54e.xml#id-b35a85925e28464fb86718108c1be54e"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -483,8 +483,8 @@
         width="132"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-c460cb2681fa42f6a1b16ee6a7dccad1.xml#id-c460cb2681fa42f6a1b16ee6a7dccad1"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-512b72e9227a4d448057f9a2313b2bc5.xml#id-512b72e9227a4d448057f9a2313b2bc5"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -495,8 +495,8 @@
         width="132"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-6308d0e745af404cb440f5f64bf860d4.xml#id-6308d0e745af404cb440f5f64bf860d4"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-d731c54b1d1e4d208ad84b7c5fa123c7.xml#id-d731c54b1d1e4d208ad84b7c5fa123c7"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -507,8 +507,8 @@
         width="132"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-73bd56506d8d4463bd815d78ab91e42a.xml#id-73bd56506d8d4463bd815d78ab91e42a"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-54dc45b317764c78a42cf2f5bcb5512c.xml#id-54dc45b317764c78a42cf2f5bcb5512c"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -519,8 +519,8 @@
         width="136"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-4aa2858403744c929ff8e21166f0acc3.xml#id-4aa2858403744c929ff8e21166f0acc3"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-42f1bf330a3c442fb483429aada157eb.xml#id-42f1bf330a3c442fb483429aada157eb"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -531,8 +531,8 @@
         width="132"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-8881c593c5824f2ca36b1af7cfc0b273.xml#id-8881c593c5824f2ca36b1af7cfc0b273"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-b7ee14eb2b9a4b5791e433bfcb53f807.xml#id-b7ee14eb2b9a4b5791e433bfcb53f807"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -543,8 +543,8 @@
         width="132"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-2eafcdcc98394c45828e1ae97cf5278a.xml#id-2eafcdcc98394c45828e1ae97cf5278a"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-e085ede2c0f24311b5bfed1304192ebf.xml#id-e085ede2c0f24311b5bfed1304192ebf"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -555,8 +555,8 @@
         width="132"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-ce21c17469834cd3b360aad55238c1ba.xml#id-ce21c17469834cd3b360aad55238c1ba"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-50dc78be17094674a3b70e4af68ce91f.xml#id-50dc78be17094674a3b70e4af68ce91f"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -567,8 +567,8 @@
         width="132"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-22baeab28064482db700f4382ff470c8.xml#id-22baeab28064482db700f4382ff470c8"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-3482516e15b3436d9f62253cddd57a08.xml#id-3482516e15b3436d9f62253cddd57a08"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -579,8 +579,8 @@
         width="132"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-373153bb0b6b489ea1983b7b851058b4.xml#id-373153bb0b6b489ea1983b7b851058b4"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-36c84409d0e6402c83e722c729302bbd.xml#id-36c84409d0e6402c83e722c729302bbd"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -591,8 +591,8 @@
         width="132"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-c4898ae50ac24201917798bbfa8e588d.xml#id-c4898ae50ac24201917798bbfa8e588d"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-ada7338cd2aa4141b0bb7c61ca32ecac.xml#id-ada7338cd2aa4141b0bb7c61ca32ecac"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -603,8 +603,8 @@
         width="132"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-f6099a6e4dcb4f0797868a2eaae5cc88.xml#id-f6099a6e4dcb4f0797868a2eaae5cc88"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-ef0b6929d43440eca7479a3a487e6c6d.xml#id-ef0b6929d43440eca7479a3a487e6c6d"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -615,8 +615,8 @@
         width="132"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-a020786117bb431183ea7c145244e886.xml#id-a020786117bb431183ea7c145244e886"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-b40ac5665e4f49fe9e7a8b8dcfc12fff.xml#id-b40ac5665e4f49fe9e7a8b8dcfc12fff"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -627,8 +627,8 @@
         width="132"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-e693cf4aaed542eb8c187aac9c0cffe5.xml#id-e693cf4aaed542eb8c187aac9c0cffe5"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-709653d3bfb240039f5d68c7f289d663.xml#id-709653d3bfb240039f5d68c7f289d663"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -639,8 +639,8 @@
         width="132"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-174112cdbae74cdc90753ef88f8274b9.xml#id-174112cdbae74cdc90753ef88f8274b9"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-3422888efba244da9fc22a41251e9619.xml#id-3422888efba244da9fc22a41251e9619"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -651,8 +651,8 @@
         width="132"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-fc2117e8cc2f4d0cb0bb85b720e6c511.xml#id-fc2117e8cc2f4d0cb0bb85b720e6c511"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-8072717f98b34493b93b8a255ceb60d2.xml#id-8072717f98b34493b93b8a255ceb60d2"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -663,8 +663,8 @@
         width="133"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-9f4d6ba3025b4a81b4302e2f1e6f812e.xml#id-9f4d6ba3025b4a81b4302e2f1e6f812e"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-c816f0374da54c079c34bc01d5e5efca.xml#id-c816f0374da54c079c34bc01d5e5efca"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -675,8 +675,8 @@
         width="132"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-f110cd41c90d43e083a67e6231964122.xml#id-f110cd41c90d43e083a67e6231964122"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-1021121a533144ed821f974f87f16bb4.xml#id-1021121a533144ed821f974f87f16bb4"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -687,8 +687,8 @@
         width="132"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-f7d3c15a06d44bb7a8fc96430817d42c.xml#id-f7d3c15a06d44bb7a8fc96430817d42c"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-3df757a9a0fe41d9a40dc611001c09f8.xml#id-3df757a9a0fe41d9a40dc611001c09f8"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -699,8 +699,8 @@
         width="132"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-8f09226252dd4812b2e6bb1cb262683f.xml#id-8f09226252dd4812b2e6bb1cb262683f"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-0157fc0fc4b742bd876bda71ce463f69.xml#id-0157fc0fc4b742bd876bda71ce463f69"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -711,8 +711,8 @@
         width="132"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-903ee9dfd41d42e78b8b0e25851eecfd.xml#id-903ee9dfd41d42e78b8b0e25851eecfd"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-14b9f7389ff745f7a8ac84bfcf5aca15.xml#id-14b9f7389ff745f7a8ac84bfcf5aca15"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -723,8 +723,8 @@
         width="132"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-da850217dad14e58b3831a1290169c91.xml#id-da850217dad14e58b3831a1290169c91"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-f12229873f214e838038e369ef59e5fa.xml#id-f12229873f214e838038e369ef59e5fa"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -735,8 +735,8 @@
         width="132"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-78cd3b54899e489a9770c2ce0c4bb72f.xml#id-78cd3b54899e489a9770c2ce0c4bb72f"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-2aa3c7ccf7fa46cb92281e5c3f31c07f.xml#id-2aa3c7ccf7fa46cb92281e5c3f31c07f"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -747,8 +747,8 @@
         width="132"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-a6c6eb14c4bf4c7db083fc4f2e5dc572.xml#id-a6c6eb14c4bf4c7db083fc4f2e5dc572"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-91184db63f1445bc879195477ef35c2c.xml#id-91184db63f1445bc879195477ef35c2c"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -759,8 +759,8 @@
         width="132"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-cfce9ff202e74d9fbfd2613ff1374ec5.xml#id-cfce9ff202e74d9fbfd2613ff1374ec5"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-f34cb763f3344b8f86f74220cf2c8287.xml#id-f34cb763f3344b8f86f74220cf2c8287"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -771,8 +771,8 @@
         width="132"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-efdcefd87c854114ba5eff4443bb143b.xml#id-efdcefd87c854114ba5eff4443bb143b"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-177f5c60ec2646e89ff1030366a913a7.xml#id-177f5c60ec2646e89ff1030366a913a7"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -783,8 +783,8 @@
         width="132"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-f3de9acec41e4265bf6e5387b9bba3c5.xml#id-f3de9acec41e4265bf6e5387b9bba3c5"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-ecbb38b413d643fcbd11005ad2a0948b.xml#id-ecbb38b413d643fcbd11005ad2a0948b"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -795,8 +795,8 @@
         width="132"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-3bb15661c713443d95a0db35659584bd.xml#id-3bb15661c713443d95a0db35659584bd"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-1a9e348a2c534ecb9ff8714a88df3ca4.xml#id-1a9e348a2c534ecb9ff8714a88df3ca4"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -807,8 +807,8 @@
         width="132"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-283c10e12a2e45729cd545e07c246d46.xml#id-283c10e12a2e45729cd545e07c246d46"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-40da95ec65624e48b43548149ba4c133.xml#id-40da95ec65624e48b43548149ba4c133"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -819,8 +819,8 @@
         width="132"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-61307720571c4c17ae331ff9c875eed7.xml#id-61307720571c4c17ae331ff9c875eed7"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-0e0014aa4aca42cda21b3ddd8e64f375.xml#id-0e0014aa4aca42cda21b3ddd8e64f375"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -831,8 +831,8 @@
         width="132"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-fce41a396f294334ae4198b63254964b.xml#id-fce41a396f294334ae4198b63254964b"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-9fbcbb3bd3e049128a2007d74b41c72b.xml#id-9fbcbb3bd3e049128a2007d74b41c72b"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -843,8 +843,8 @@
         width="132"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-cb4bd271b3e84b00954b96aeea2ae548.xml#id-cb4bd271b3e84b00954b96aeea2ae548"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-a5f3593799a740a1b2df453538421beb.xml#id-a5f3593799a740a1b2df453538421beb"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -855,8 +855,8 @@
         width="132"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-604ed1881b074c5299d14f70fbe8ec52.xml#id-604ed1881b074c5299d14f70fbe8ec52"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-f73be0c782be4a448176bf91ace40138.xml#id-f73be0c782be4a448176bf91ace40138"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -867,8 +867,8 @@
         width="132"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-8bf03a7b6d4141cf80c029c04e3cf728.xml#id-8bf03a7b6d4141cf80c029c04e3cf728"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-f76dfe026b74459b9a77619e511a54ac.xml#id-f76dfe026b74459b9a77619e511a54ac"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -879,8 +879,8 @@
         width="132"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-36b4f07b7a3d444b8ee5d0a70d6aa83d.xml#id-36b4f07b7a3d444b8ee5d0a70d6aa83d"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-13337d88e9974af5b78584b7c3258ec8.xml#id-13337d88e9974af5b78584b7c3258ec8"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -891,8 +891,8 @@
         width="132"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-8f04c04e16d84f3f8f70b2618b899b1e.xml#id-8f04c04e16d84f3f8f70b2618b899b1e"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-5ad2ea39266b4e4b9685069de7726fbb.xml#id-5ad2ea39266b4e4b9685069de7726fbb"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -903,8 +903,8 @@
         width="132"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-d42f0f7a4b8f46308df5f55da3aad296.xml#id-d42f0f7a4b8f46308df5f55da3aad296"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-65a2761157014850913c1dcc07bc09a0.xml#id-65a2761157014850913c1dcc07bc09a0"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -915,8 +915,8 @@
         width="132"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-2da2b4258b1b4e98ba45b70442c72f89.xml#id-2da2b4258b1b4e98ba45b70442c72f89"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-eb8c0214e135482d84f29a6c70dd71fa.xml#id-eb8c0214e135482d84f29a6c70dd71fa"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -927,8 +927,8 @@
         width="132"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-957e79b76d02497a8915851cc96d1076.xml#id-957e79b76d02497a8915851cc96d1076"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-5af15025fb7441f98cfedb9544383b4c.xml#id-5af15025fb7441f98cfedb9544383b4c"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -939,8 +939,8 @@
         width="132"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-d842bbd282274caaa634281a9947aaef.xml#id-d842bbd282274caaa634281a9947aaef"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-8c415a0a8c68448db61228320103f556.xml#id-8c415a0a8c68448db61228320103f556"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -951,8 +951,8 @@
         width="132"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-8e98b75415434a23b706ad7f38f261e7.xml#id-8e98b75415434a23b706ad7f38f261e7"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-30beb0c84d594f998a7d645c5872aa18.xml#id-30beb0c84d594f998a7d645c5872aa18"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -963,8 +963,8 @@
         width="132"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-c0806b32d5764b2ab933184c8243ebb2.xml#id-c0806b32d5764b2ab933184c8243ebb2"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-68952d32ac2e42568cfc297367fee5f9.xml#id-68952d32ac2e42568cfc297367fee5f9"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -975,8 +975,8 @@
         width="133"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-8956e3154f15420180ff7c77206e26fa.xml#id-8956e3154f15420180ff7c77206e26fa"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-f9ccb397ffa147e1b100f3e7cd9efad0.xml#id-f9ccb397ffa147e1b100f3e7cd9efad0"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -987,8 +987,8 @@
         width="133"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-89285e37733444e89acdb2f15069b05b.xml#id-89285e37733444e89acdb2f15069b05b"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-c6810c9da88b4dd4a48271018055ba94.xml#id-c6810c9da88b4dd4a48271018055ba94"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -999,8 +999,8 @@
         width="133"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-aaf2b305d1ba4d279c9dc9a6c25966ba.xml#id-aaf2b305d1ba4d279c9dc9a6c25966ba"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-2bdedb22c85c4f4695e5d44d98e7c8da.xml#id-2bdedb22c85c4f4695e5d44d98e7c8da"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -1011,8 +1011,8 @@
         width="133"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-58a72a7c2d824e02b14e8e11f9eaab07.xml#id-58a72a7c2d824e02b14e8e11f9eaab07"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-e994ca33b90d44b3890d94055fe8af1f.xml#id-e994ca33b90d44b3890d94055fe8af1f"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -1023,8 +1023,8 @@
         width="133"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-278a30a551d743e0901c694a729cfcb0.xml#id-278a30a551d743e0901c694a729cfcb0"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-77daaa599ddf4148b11136eb988fc24a.xml#id-77daaa599ddf4148b11136eb988fc24a"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -1035,8 +1035,8 @@
         width="133"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-ff0268a7c7544571902e4551fd4e3527.xml#id-ff0268a7c7544571902e4551fd4e3527"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-65547ac4c48b425fa53107cfec663226.xml#id-65547ac4c48b425fa53107cfec663226"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -1047,8 +1047,8 @@
         width="133"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-c4cadce3742a4c89ae0db64ff6cff6b9.xml#id-c4cadce3742a4c89ae0db64ff6cff6b9"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-6c2bfae4c4554f69a9814577fc7aaca2.xml#id-6c2bfae4c4554f69a9814577fc7aaca2"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -1059,8 +1059,8 @@
         width="133"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-d121d27e889848b49f90d1b37577ea9f.xml#id-d121d27e889848b49f90d1b37577ea9f"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-cf01e2bd1bd54abc97e8884e7338c680.xml#id-cf01e2bd1bd54abc97e8884e7338c680"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -1071,8 +1071,8 @@
         width="133"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-0a17dacfc4924cb9b48880f8f44f41ca.xml#id-0a17dacfc4924cb9b48880f8f44f41ca"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-1b6457a17eb84e4598b8c4470acced29.xml#id-1b6457a17eb84e4598b8c4470acced29"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -1083,8 +1083,8 @@
         width="133"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-00b067a61f2a4941a1bf306037f50f41.xml#id-00b067a61f2a4941a1bf306037f50f41"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-516d16d171b84e23a6cffcdf29c79cc6.xml#id-516d16d171b84e23a6cffcdf29c79cc6"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -1095,8 +1095,8 @@
         width="133"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-626ee2ce1fea40f48c781e23caf3be19.xml#id-626ee2ce1fea40f48c781e23caf3be19"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-472f255bcc324a929eda2a600c21abdc.xml#id-472f255bcc324a929eda2a600c21abdc"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -1107,7 +1107,7 @@
         width="133"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-d8f576c7b3924501a440328501fb48bf.xml#id-d8f576c7b3924501a440328501fb48bf"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-87eef6fce8624439bbeb19b0a1e06b8d.xml#id-87eef6fce8624439bbeb19b0a1e06b8d"/>
   </children>
 </archimate:ArchimateDiagramModel>
